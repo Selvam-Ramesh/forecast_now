@@ -23,7 +23,7 @@ class _SplashScreenState extends State<SplashScreen> {
           VerticalSpacing(UIExt(context).screenHeight()*0.4),
           Center(child: Image(image: AssetImage("assets/images/splash_img.png"),)),
           VerticalSpacing(UIExt(context).screenHeight()*0.29),
-          Text("Powered By Tech Idara",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500)),
+          Text("Powered By Conestoga",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500)),
         ],
       ),
     );
